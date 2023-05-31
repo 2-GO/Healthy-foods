@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b04bea2.css",
-    "main.js": "/static/js/main.ec463dbf.js",
-    "static/media/home-banner-image.png": "/static/media/home-banner-image.a41849b23e5c36d66717.png",
-    "static/media/about-background-image.png": "/static/media/about-background-image.d0e45280dd69dec26ee6.png",
-    "static/media/home-banner-background.png": "/static/media/home-banner-background.585600da7ff85661555e.png",
-    "static/media/Logo.svg": "/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
-    "index.html": "/index.html",
-    "main.8b04bea2.css.map": "/static/css/main.8b04bea2.css.map",
-    "main.ec463dbf.js.map": "/static/js/main.ec463dbf.js.map"
+    "main.css": "/Healthy-foods/static/css/main.8b04bea2.css",
+    "main.js": "/Healthy-foods/static/js/main.832e6ce0.js",
+    "static/media/home-banner-image.png": "/Healthy-foods/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/Healthy-foods/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/home-banner-background.png": "/Healthy-foods/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/Healthy-foods/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/Healthy-foods/index.html",
+    "main.8b04bea2.css.map": "/Healthy-foods/static/css/main.8b04bea2.css.map",
+    "main.832e6ce0.js.map": "/Healthy-foods/static/js/main.832e6ce0.js.map"
   },
   "entrypoints": [
     "static/css/main.8b04bea2.css",
-    "static/js/main.ec463dbf.js"
+    "static/js/main.832e6ce0.js"
   ]
 }
